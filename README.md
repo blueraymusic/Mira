@@ -46,7 +46,6 @@ Mira (Multimodal Interactive Recognition Agent) is a voice-activated, vision-enh
 * macOS (M2 GPU preferred), Windows or Linux
 * Webcam
 * Microphone
-* [Google Gemini API Key](https://ai.google.dev/)
 
 ### 📦 Install Dependencies
 
@@ -67,7 +66,7 @@ pip install opencv-python torch transformers gtts pygame SpeechRecognition googl
 ### 🔹 Launch the Assistant
 
 ```bash
-python voice.py
+python mira.py
 ```
 
 Say **"Jack"** (🇺🇸) or **"Jacques"** (🇫🇷) to wake Mira.
@@ -76,13 +75,21 @@ Say **"Jack"** (🇺🇸) or **"Jacques"** (🇫🇷) to wake Mira.
 > "Hey Jack, what's the weather today?"
 > "Jacques, parle-moi de l’intelligence artificielle."
 
-Say **"That's all"** to put Mira back to sleep.
+> "Hey Jack, What am i showing you right now?"
+> "Hey Jack, What was the first object i showed you?"
+> "Jacques, parle-moi de l’intelligence artificielle."
+
+Say **"That's all"** or **Goodbye Jack** to put Mira back to sleep.
 
 ### 🔹 Launch Visual Captioning (Optional)
 
 ```bash
 python vision.py
 ```
+Sample --
+<img width="860" alt="vision " src="https://github.com/user-attachments/assets/75ad31be-e26a-4873-bdcf-68d1a7722f96" />
+<img width="1112" alt="Capture d’écran 2025-06-01 à 20 33 52" src="https://github.com/user-attachments/assets/0bb8d69c-a503-46ba-b038-96462fabb638" />
+
 
 This will:
 
