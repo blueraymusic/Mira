@@ -32,7 +32,7 @@ Mira (Multimodal Interactive Recognition Agent) is a voice-activated, vision-enh
 | Voice Recognition | speech\_recognition        |
 | TTS               | gTTS + pygame              |
 | LLM               | Google Gemini 2.0 Flash    |
-| Interface         | HTML/CSS (GitHub Pages)    |
+| Interface         | Camera                     |
 | Storage           | JSON (annotations + logs)  |
 | Language Support  | English 🇺🇸 / French 🇫🇷 |
 
