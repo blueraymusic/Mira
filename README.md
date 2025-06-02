@@ -86,7 +86,6 @@ Say **"That's all"** or **Goodbye Jack** to put Mira back to sleep.
 ```bash
 python vision.py
 ```
-Sample --
 <img width="860" alt="vision " src="https://github.com/user-attachments/assets/75ad31be-e26a-4873-bdcf-68d1a7722f96" />
 <img width="1112" alt="Capture d’écran 2025-06-01 à 20 33 52" src="https://github.com/user-attachments/assets/0bb8d69c-a503-46ba-b038-96462fabb638" />
 
