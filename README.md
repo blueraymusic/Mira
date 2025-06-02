@@ -1,7 +1,5 @@
-# Mira
-Multimodal Interactive Recognition Agent (MIRA)
 
-# 🎧 Mira - Multimodal Interactive Recognition Agent
+# Mira - Multimodal Interactive Recognition Agent
 
 **Live Demo**: [blueraymusic.github.io/Mira](https://blueraymusic.github.io/Mira)
 **License**: MIT
