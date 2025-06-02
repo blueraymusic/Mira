@@ -13,16 +13,16 @@ Mira (Multimodal Interactive Recognition Agent) is a voice-activated, vision-enh
 
 ---
 
-## 🌟 Features
+##  Features
 
-* 🧠 **LLM-Powered Chat** — Uses Gemini 2.0 Flash for intelligent, conversational interactions.
-* 👁️ **Visual Understanding** — Uses BLIP (Salesforce) to caption real-time webcam imagery.
-* 🎤 **Speech-to-Text** — Converts your voice to text with `speech_recognition`.
-* 🔊 **Text-to-Speech** — Replies audibly using `gTTS` and plays responses via `pygame`.
-* 🌐 **Multilingual Support** — Supports both English and French voice interaction.
-* 💬 **Contextual Memory** — Keeps track of chat history for smarter responses.
-* 🗂️ **Training Dataset Builder** — Saves captioned images for use in fine-tuning or ML training.
-* 🔐 **Secure API Access** — Includes basic key management with encryption for Gemini API.
+* **LLM-Powered Chat** — Uses Gemini 2.0 Flash for intelligent, conversational interactions.
+* **Visual Understanding** — Uses BLIP (Salesforce) to caption real-time webcam imagery.
+* **Speech-to-Text** — Converts your voice to text with `speech_recognition`.
+* **Text-to-Speech** — Replies audibly using `gTTS` and plays responses via `pygame`.
+* **Multilingual Support** — Supports both English and French voice interaction.
+* **Contextual Memory** — Keeps track of chat history for smarter responses.
+* **Training Dataset Builder** — Saves captioned images for use in fine-tuning or ML training.
+* **Secure API Access** — For fast use, an API key to parse the text into audio would be crucial. If an API key is available, it would be usable.
 
 ---
 
